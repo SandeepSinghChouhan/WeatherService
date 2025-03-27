@@ -1,0 +1,23 @@
+{
+  "name": "City of London",
+  "main": {
+    "temp": 13.7,
+    "feels_like": 12.8,
+    "temp_min": 13.7,
+    "temp_max": 13.7,
+    "pressure": 1017,
+    "humidity": 64
+  },
+  "weather": [
+    {
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "wind": {
+    "speed": 3.78,
+    "deg": 245
+  },
+  "dt": 1743093601
+}

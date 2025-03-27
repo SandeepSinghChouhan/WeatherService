@@ -1,0 +1,23 @@
+{
+  "name": "Delhi",
+  "main": {
+    "temp": 31.01,
+    "feels_like": 28.94,
+    "temp_min": 31.01,
+    "temp_max": 31.01,
+    "pressure": 1006,
+    "humidity": 11
+  },
+  "weather": [
+    {
+      "main": "Clouds",
+      "description": "scattered clouds",
+      "icon": "03n"
+    }
+  ],
+  "wind": {
+    "speed": 4.97,
+    "deg": 277
+  },
+  "dt": 1743093730
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Washington",
+  "main": {
+    "temp": 18.82,
+    "feels_like": 17.49,
+    "temp_min": 18.82,
+    "temp_max": 18.82,
+    "pressure": 1028,
+    "humidity": 28
+  },
+  "weather": [
+    {
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "wind": {
+    "speed": 1.56,
+    "deg": 119
+  },
+  "dt": 1743093881
+}

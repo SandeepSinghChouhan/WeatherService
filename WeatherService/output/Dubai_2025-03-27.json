@@ -1,0 +1,23 @@
+{
+  "name": "Dubai",
+  "main": {
+    "temp": 24.29,
+    "feels_like": 24.45,
+    "temp_min": 24.29,
+    "temp_max": 24.29,
+    "pressure": 1014,
+    "humidity": 64
+  },
+  "weather": [
+    {
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
+    }
+  ],
+  "wind": {
+    "speed": 4.23,
+    "deg": 6
+  },
+  "dt": 1743093742
+}

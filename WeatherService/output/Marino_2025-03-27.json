@@ -1,0 +1,23 @@
+{
+  "name": "Marino",
+  "main": {
+    "temp": 11.48,
+    "feels_like": 10.64,
+    "temp_min": 11.48,
+    "temp_max": 11.48,
+    "pressure": 1003,
+    "humidity": 75
+  },
+  "weather": [
+    {
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "wind": {
+    "speed": 2.89,
+    "deg": 9
+  },
+  "dt": 1743093882
+}

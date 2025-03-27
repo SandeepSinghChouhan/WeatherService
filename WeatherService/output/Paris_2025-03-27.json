@@ -1,0 +1,23 @@
+{
+  "name": "Paris",
+  "main": {
+    "temp": 15.97,
+    "feels_like": 14.72,
+    "temp_min": 15.97,
+    "temp_max": 15.97,
+    "pressure": 1017,
+    "humidity": 42
+  },
+  "weather": [
+    {
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "wind": {
+    "speed": 2.87,
+    "deg": 60
+  },
+  "dt": 1743093658
+}
